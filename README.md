@@ -12,7 +12,10 @@ This dashboard, built with **Dash** and **Plotly**, offers a comprehensive tool 
 
 ## Data & Usage:
 
-*   The dashboard can seamlessly load data from an Excel file (e.g., `Power Price Realized 2021-2026.xlsx`) or generate synthetic data for demonstration and testing purposes.
+*   The dashboard can seamlessly load data from an Excel file  or generate synthetic data for demonstration and testing purposes.
 *   **Interactive Controls:** Users can intuitively select Hub 1 and Hub 2 assets, GARCH family, innovation distribution, and rank correlation method via dropdown menus. A dedicated 'Run analysis' button updates all plots and tables dynamically based on selections.
 
 This powerful tool is essential for financial analysts, researchers, and anyone seeking to understand and model the complex dependencies in energy markets, providing both granular analysis and high-level insights.
+
+<img src="dash_page1.jpg" alt="Dashboard page 1" width="1500" align="center"/>
+<img src="dash_page2.jpg" alt="Dashboard page 2" width="1500" align="center"/>
